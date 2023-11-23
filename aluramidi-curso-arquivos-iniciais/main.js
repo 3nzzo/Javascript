@@ -1,1 +1,1 @@
-alert('OLÁ ENZZO')
+document.querySelector('.tecla_pom');
